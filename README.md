@@ -1,2 +1,0 @@
-# Cobol
-Sample Cobol Automation
